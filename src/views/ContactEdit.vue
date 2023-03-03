@@ -61,4 +61,4 @@ export default {
         this.getContact(this.id); this.message = "";
     },
 };
-</script>
+</script>   
